@@ -1,9 +1,10 @@
-![image](https://github.com/user-attachments/assets/b96b8a67-99e6-4fcf-94a6-866cada6b548)# 83-MNG2
 
 VR Concert & Cultural Event Experience Website
 
 An immersive browser-based VR platform that simulates real-life concerts and cultural events. Built using HTML, CSS, and JavaScript with support for 3D models, videos, and avatar personalization, the website provides an engaging 360° experience using `.glb` assets and spatial elements.
 
+for all the concert videos,the website demo video,the glb charactes and the presentation : 
+https://drive.google.com/drive/folders/1GtwG8Ya0Gbbf7uOWpg8WbCg7ULnlDdwj?usp=drive_link
 
 Key Features
 
@@ -23,20 +24,20 @@ Genre-Specific Events
   Dedicated HTML files like `pop.html`, `rock.html`, `rap.html`, and `edm.html` deliver genre-tailored environments.
 
 Folder Structure
-├── .vscode/ # VS Code project settings
-├── node_modules/ # Dependencies (if using npm)
-├── public/ # Static assets (optional)
+├── .vscode/ 
+├── node_modules/ 
+├── public/ 
 ├── .gitattributes
-├── .nojekyll # GitHub Pages compatibility
-├── .Rhistory # RStudio history (can be ignored)
-├── *.html # Main website pages (index + genres + avatars)
-├── *.js # JS logic (main.js)
-├── *.css # Styling (style.css)
-├── *.mp4 # Concert videos (compressed or original)
-├── *.glb # 3D models (artists, crowd, avatars)
-├── package.json # NPM project config
-├── README.md # Project documentation
-└── Presentation.pdf # Project overview or slides
+├── .nojekyll 
+├── .Rhistory 
+├── .html 
+├── .js 
+├── .css 
+├── .mp4 
+├── .glb 
+├── package.json 
+├── README.md 
+└── Presentation.pdf 
 
 Tech Stack
 
@@ -49,8 +50,6 @@ API           -Avatar creation & customization
 Hosting       - Glitch / GitHub Pages compatible  
 
 
-How to Run Locally
-
 Usage Guide
 Navigate to index.html for the homepage.
 Select from genres: pop.html, rock.html, rap.html, edm.html, russian.html, etc.
@@ -61,17 +60,14 @@ Assets Used
 3D Models (.glb)
 character.glb – Base avatar model
 crowd.glb – Audience animation
-travis_scott.glb, black_bikini.glb – Artist representations
-russian.glb – Cultural variant
+travis_scott.glb – Artist representations
 Videos (.mp4)
 alanwalker.mp4, travis.mp4, xxxtenc.mp4 – Concert footage
-compressed*.mp4 – Optimized for faster loading
+compressed.mp4 – Optimized for faster loading
 
 Demo & Presentation
 Demo Videos:
 demo_video (2).mp4 – Main demo
-Other individual concert previews
-
 Presentation:
 Presentation (2).pdf – Slides explaining features and design
 
@@ -84,5 +80,4 @@ Acknowledgements
 Music videos from artist-owned sources for demo purposes only
 Inspired by real-world concerts and cultural diversity
 
-for all the glb, videos (demo and concerts) and the presentation as well
-https://drive.google.com/drive/folders/1GtwG8Ya0Gbbf7uOWpg8WbCg7ULnlDdwj?usp=drive_link
+
