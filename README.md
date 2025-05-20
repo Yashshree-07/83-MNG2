@@ -1,10 +1,12 @@
 
 VR Concert & Cultural Event Experience Website
 
+
 An immersive browser-based VR platform that simulates real-life concerts and cultural events. Built using HTML, CSS, and JavaScript with support for 3D models, videos, and avatar personalization, the website provides an engaging 360° experience using `.glb` assets and spatial elements.
 
 for all the concert videos,the website demo video,the glb charactes and the presentation : 
 https://drive.google.com/drive/folders/1GtwG8Ya0Gbbf7uOWpg8WbCg7ULnlDdwj?usp=drive_link
+
 
 Key Features
 
@@ -54,22 +56,38 @@ Folder Structure
 
 
 
+
 Tech Stack
 
- Purpose     -  Tools Used                       
-Web Framework - HTML5, CSS3, JavaScript          
+Purpose     -  Tools Used  
+
+Web Framework - HTML5, CSS3, JavaScript      
+
 3D Rendering  - Three.js (assumed for .glb usage)
+
 3D Assets    - `.glb` models for scenes & avatars
+
 Video         - HTML5 `<video>` elements          
+
 API           -Avatar creation & customization   
-Hosting       - Glitch / GitHub Pages compatible  
+
+Hosting       - Glitch / GitHub Pages compatible 
+
+
 
 
 Usage Guide
+
 Navigate to index.html for the homepage.
+
 Select from genres: pop.html, rock.html, rap.html, edm.html, russian.html, etc.
+
 Avatar creation and scanning: Open avatar-scan.html.
+
 3D scenes and video playback are embedded within each genre page.
+
+
+
 
 Assets Used
 3D Models (.glb)
@@ -80,18 +98,29 @@ Videos (.mp4)
 alanwalker.mp4, travis.mp4, xxxtenc.mp4 – Concert footage
 compressed.mp4 – Optimized for faster loading
 
+
+
 Demo & Presentation
+
 Demo Videos:
 demo_video (2).mp4 – Main demo
+
 Presentation:
 Presentation (2).pdf – Slides explaining features and design
 
 
+
 License
+
 MIT License. Free to use and modify with credit.
 
+
 Acknowledgements
+
 .glb models from Sketchfab and Free3D
+
+
+
 Music videos from artist-owned sources for demo purposes only
 Inspired by real-world concerts and cultural diversity
 
