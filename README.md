@@ -8,20 +8,22 @@ https://drive.google.com/drive/folders/1GtwG8Ya0Gbbf7uOWpg8WbCg7ULnlDdwj?usp=dri
 
 Key Features
 
-Multi-Genre Virtual Concerts
+- Multi-Genre Virtual Concerts
   Individual HTML pages for Pop, Rock, EDM, Rap, Russian, and more — each simulating a unique concert experience.
 
-3D Artists and Crowds
+- 3D Artists and Crowds
   `.glb` models like `travis_scott.glb`, `crowd.glb`, `black_bikini.glb`, etc., used to represent performers and audiences.
 
-Custom Avatar Integration
+- Custom Avatar Integration
   Avatar creation and scanning enabled through `avatar-scan.html`, integrating with external APIs for user personalization.
 
-Immersive Video + Audio Playback
+- Immersive Video + Audio Playback
   Videos (`alanwalker.mp4`, `travis.mp4`, etc.) embedded across concert pages for realistic playback.
 
-Genre-Specific Events
+- Genre-Specific Events
   Dedicated HTML files like `pop.html`, `rock.html`, `rap.html`, and `edm.html` deliver genre-tailored environments.
+
+  
 
 Folder Structure
 ├── .vscode/ 
@@ -38,6 +40,8 @@ Folder Structure
 ├── package.json 
 ├── README.md 
 └── Presentation.pdf 
+
+
 
 Tech Stack
 
