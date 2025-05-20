@@ -26,20 +26,31 @@ Key Features
   
 
 Folder Structure
+
 ├── .vscode/ 
+
 ├── node_modules/ 
+
 ├── public/ 
+
 ├── .gitattributes
+
 ├── .nojekyll 
+
 ├── .Rhistory 
+
 ├── .html 
+
 ├── .js 
+
 ├── .css 
-├── .mp4 
-├── .glb 
+
 ├── package.json 
+
 ├── README.md 
+
 └── Presentation.pdf 
+
 
 
 
